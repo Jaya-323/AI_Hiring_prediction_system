@@ -143,8 +143,9 @@ The Streamlit dashboard allows users to:
 ---
 
 ## 📸 Application Preview
+<img width="1917" height="885" alt="Screenshot 2026-06-30 191027" src="https://github.com/user-attachments/assets/23089b94-a20f-4896-b4e9-4e47ece1f92b" />
 
-(Add screenshots of your Streamlit application here.)
+
 
 ---
 
