@@ -1,0 +1,12 @@
+machine-learning
+joblib
+python
+streamlit
+xgboost
+classification
+data-science
+hiring-prediction
+recruitment
+scikit-learn
+ai
+resume-project
