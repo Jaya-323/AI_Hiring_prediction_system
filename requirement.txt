@@ -1,5 +1,6 @@
 machine-learning
 python
+joblib
 streamlit
 xgboost
 classification
